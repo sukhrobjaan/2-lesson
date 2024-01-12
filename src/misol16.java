@@ -17,6 +17,7 @@ public class misol16 {
         if(e>0)count++;
         System.out.println("musbatlar  => "+count);
         System.out.println("manfiylar  => "+(5-count));
+        System.out.println("manfiylar  => "+(5-count));
 
         /*String num="salom dunyo qalisan";
         int son=num.length();
